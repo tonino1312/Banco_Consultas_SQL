@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\elcra\code\bancobbdd\dist\Banco.jar</jar>
+  <outfile>C:\Users\elcra\code\bancobbdd\final\Banco.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl></downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>C:\Users\elcra\code\bancobbdd\src\layout\logo.ico</icon>
+  <jre>
+    <path>%JAVA_HOME%;%PATH%</path>
+    <requiresJdk>false</requiresJdk>
+    <requires64Bit>false</requires64Bit>
+    <minVersion></minVersion>
+    <maxVersion></maxVersion>
+  </jre>
+  <versionInfo>
+    <fileVersion>1.0.0.0</fileVersion>
+    <txtFileVersion>Xavi Fortes</txtFileVersion>
+    <fileDescription>Bank System </fileDescription>
+    <copyright>Xavi Fortes © 2023</copyright>
+    <productVersion>1.0.0.0</productVersion>
+    <txtProductVersion>Xavi Fortes</txtProductVersion>
+    <productName>Bank</productName>
+    <companyName></companyName>
+    <internalName>BancoBBDD</internalName>
+    <originalFilename>Bank.exe</originalFilename>
+    <trademarks></trademarks>
+    <language>ENGLISH_US</language>
+  </versionInfo>
+</launch4jConfig>
